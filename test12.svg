@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg">
 <style>
-svg{background:url(https://raw.githubusercontent.com/h4x0rl33tx/Public/refs/heads/main/xss_pic_svg.svg)}
+svg{background:url(file:///etc/passwd)}
 </style>
 </svg>
+
 
